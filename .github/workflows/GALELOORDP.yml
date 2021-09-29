@@ -1,4 +1,4 @@
-name: GALELOORDP
+name: amazonRDP
 
 on: workflow_dispatch
 
